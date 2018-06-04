@@ -1,0 +1,11 @@
+{
+  "name": "forrina/supernova-forrina",
+  "description": "Forrina",
+  "homepage": "https://github.com/alirezarahmani/framework-forrina",
+  "require": {
+    "forrina/supernova": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {"Forrina\\Framework\\Forrina\\": "src/"}
+  }
+}
