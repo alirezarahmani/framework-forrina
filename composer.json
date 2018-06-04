@@ -3,7 +3,7 @@
   "description": "Forrina",
   "homepage": "https://github.com/alirezarahmani/framework-forrina",
   "require": {
-    "forrina/supernova": "dev-master"
+    "forrina/framework": "dev-master"
   },
   "autoload": {
     "psr-4": {"Forrina\\Framework\\Forrina\\": "src/"}
